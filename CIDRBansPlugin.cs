@@ -10,7 +10,7 @@ using TShockAPI;
 
 namespace CIDRBans
 {
-    [ApiVersion(2, 0)]
+    [ApiVersion(2, 1)]
     public class CIDRBansPlugin : TerrariaPlugin
     {
         public override string Name { get { return "CIDR Bans"; } }
